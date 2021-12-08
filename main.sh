@@ -46,7 +46,7 @@ cd $HOME
 
 ls 
 
-cd T-LOAD
+cd Theme-v1
 
 ls
 
@@ -58,7 +58,7 @@ cd $HOME
 
 ls
 
-cd T-LOAD
+cd Theme-v1
 
 ls
 
