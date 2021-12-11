@@ -29,10 +29,11 @@ echo -e "\e[1m\e[31m\
               ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1
                    !!! Dont't be evil be a cracker !!!"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mBibeksah \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Recoded By \e[31mFireMe \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
 echo -e  "            \e[1m\e[32m--------->[\e[31myoutube-ExpertAnonymous\e[1m\e[32m]<----------"  
 echo " "
+echo -e  "             \e[1m\e[32m--------->[\e[31mF i r e   M e\e[1m\e[32m]<----------"
 echo ""
 sleep 8.0
 pkg install mpv -y
