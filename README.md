@@ -9,3 +9,8 @@ $ bash main.sh
 Note : tunggu aja mungkin agak lama tapi work kok Jang lupa follow github gw 
 Sama https://github.com/Mr-Gabut
 
+Jika Tidak Work Nonton tutor Nya 
+
+Link
+
+https://youtu.be/ysNv9MUHDk8 \\Sekalian Subs 
